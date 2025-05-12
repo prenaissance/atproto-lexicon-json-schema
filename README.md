@@ -1,6 +1,6 @@
 # JSON Schema for Atproto Lexicon definitions
 
-Get autocomplete, linting and documentation for your atproto lexicon files.
+Get autocomplete, linting and documentation for your atproto lexicon files. Built based on the source code of [@atproto/lex-cli](https://github.com/bluesky-social/atproto/tree/main/packages/lex-cli).
 
 For VSCode, add the following to you `settings.json` (adjust the file paths as needed):
 
